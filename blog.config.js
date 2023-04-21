@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Meahab's Wonderland',
+  title: 'Meahabs Wonderland',
   author: 'Meahab',
   email: 'juaneboosham@gmail.com',
   link: 'https://nobelium.vercel.app',
